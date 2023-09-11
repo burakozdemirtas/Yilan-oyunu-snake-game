@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://github.com/burakozdemirtas/Yilan-oyunu/assets/33163650/bd0266c1-bd37-46e0-8d1a-04c776073399" width="128" height="128">
+<img src="https://github.com/burakozdemirtas/Yilan-oyunu-snake-game/assets/33163650/f86ce36a-a2f3-4b39-8e26-00977040aafe" width="128" height="128">
 </div>
+
 
 
 
